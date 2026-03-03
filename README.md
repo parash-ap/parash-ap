@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Parash
 
 Full Stack AI developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdtcmhjazB6NTJwNmNsc21lYzBmZTVlNWhhd3cya2VobG1ubzRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 - 🔭 Here's my [portfolio](https://parash-portfolio.netlify.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - 🚀 Machine Learning Enthusiast
