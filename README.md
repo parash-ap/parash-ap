@@ -2,7 +2,7 @@
 
 Full Stack AI developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://parash-portfolio.netlify.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - 🚀 Machine Learning Enthusiast
 - 🧠 Passionate about AI, Deep Learning & LLM Applications
